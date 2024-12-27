@@ -62,7 +62,7 @@
                     case "octal" :
                         echo "octal: " . decoct($num1);
                         break;
-                    case "Hexadecimal" :
+                    case "hexadecimal" :
                         echo "Hexadecimal :" . dechex($num1);
                         break;
                     default:
